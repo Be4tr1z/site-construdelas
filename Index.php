@@ -3,7 +3,7 @@
 <head>
     <title>Page Title</title>
     <link rel="stylesheet" href="estilo.css" type="text/css">
-</head>
+ </head>
 <body class="corpinho">
     <h1>Bibi's site</h1>
     <p>
