@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Page Title</title>
-    <link rel="stylesheet" href="CSS/estilo.css" type="text/css">
+    <link rel="stylesheet" href="estilo.css" type="text/css">
 </head>
 <body class="corpinho">
     <h1>Bibi's site</h1>
